@@ -1,0 +1,7 @@
+{
+  "project.name" : "cramarctest",
+  "arc.land.onto.default" : "@",
+  "history.immutable" : false,
+  "unit.engine" : "CramTestEngine",
+  "unit.engine.cram.tests" : "tests/"
+}
